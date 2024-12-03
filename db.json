@@ -45,11 +45,5 @@
     { "id": 28, "title": "Pyro", "artist": 11, "length": 251 },
     { "id": 29, "title": "Ayer salí", "artist": 13, "length": 316 },
     { "id": 30, "title": "Ser Brigada", "artist": 13, "length": 303 }
-  ],
-  "playlists" : [
-    { "id": 1, "name": "Rock americano", "author": "Luismi", "songs": [ 5, 6, 7, 8, 10, 11, 12, 18, 19, 20, 21, 22, 27, 28 ] },
-    { "id": 2, "name": "Grupos españoles", "author": "Luismi", "songs": [ 13, 14, 15, 16, 17, 23, 24, 25, 26, 29, 30 ] },
-    { "id": 3, "name": "One hit wonders", "author": "Luismi", "songs": [ 1, 2, 3, 4 ] },
-    { "id": 4, "name": "Empty", "author": "Unknown", "songs": [ ] }
   ]
 }

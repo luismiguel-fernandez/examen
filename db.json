@@ -12,7 +12,7 @@
     { "id": 10, "name": "L.A." },
     { "id": 11, "name": "Kings of Leon" },
     { "id": 12, "name": "Morgan" },
-    { "id": 13, "name": "León Benavente" },
+    { "id": 13, "name": "León Benavente" }
   ],
   "songs" : [
     { "id": 1, "title": "Low", "artist": 1, "length": 318 },
